@@ -1,6 +1,6 @@
 # Weather App
 
-Welcome to the Weather App! This simple web application allows you to get the current weather information for any location. It is built using HTML, CSS, and JavaScript.
+Welcome to my Weather App! This simple web application allows you to get the current weather information for any location. It is built using web development tools like HTML, CSS, and JavaScript.
 
 ## Features
 
